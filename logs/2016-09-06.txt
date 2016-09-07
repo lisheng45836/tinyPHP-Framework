@@ -1,0 +1,9 @@
+[06-Sep-2016 02:41:07 Europe/Berlin] Uncaught exception: 'ErrorException'With message 'Array to string conversion'
+Stack trace:#0 /Applications/MAMP/htdocs/web/framework/Core/Router.php(26): Core\Error::errorHandler(8, 'Array to string...', '/Applications/M...', 26, Array)
+#1 /Applications/MAMP/htdocs/web/framework/public/index.php(28): Core\Router->add('/^$/i', Array)
+#2 {main}
+Thrown in '/Applications/MAMP/htdocs/web/framework/Core/Router.php' on line26
+[06-Sep-2016 02:47:59 Europe/Berlin] Uncaught exception: 'Exception'With message 'No route matched'
+Stack trace:#0 /Applications/MAMP/htdocs/web/framework/public/index.php(26): Core\Router->dispatch('posts')
+#1 {main}
+Thrown in '/Applications/MAMP/htdocs/web/framework/Core/Router.php' on line77

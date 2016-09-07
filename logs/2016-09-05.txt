@@ -1,0 +1,33 @@
+[05-Sep-2016 14:08:59 Europe/Berlin] Uncaught exception: 'Exception'With message 'Error dfuuhAction not found in controllerApp\Controllers\Posts'
+Stack trace:#0 /Applications/MAMP/htdocs/web/framework/Core/Router.php(64): Core\Controller->__call('dfuuh', Array)
+#1 /Applications/MAMP/htdocs/web/framework/public/index.php(52): Core\Router->dispatch('posts/dfuuh')
+#2 {main}
+Thrown in '/Applications/MAMP/htdocs/web/framework/Core/Controller.php' on line25
+[05-Sep-2016 14:14:51 Europe/Berlin] Uncaught exception: 'Exception'With message 'Error dfuuhAction not found in controllerApp\Controllers\Posts'
+Stack trace:#0 /Applications/MAMP/htdocs/web/framework/Core/Router.php(64): Core\Controller->__call('dfuuh', Array)
+#1 /Applications/MAMP/htdocs/web/framework/public/index.php(52): Core\Router->dispatch('posts/dfuuh')
+#2 {main}
+Thrown in '/Applications/MAMP/htdocs/web/framework/Core/Controller.php' on line25
+[05-Sep-2016 14:15:23 Europe/Berlin] Uncaught exception: 'Exception'With message 'Error dfuuhAction not found in controllerApp\Controllers\Posts'
+Stack trace:#0 /Applications/MAMP/htdocs/web/framework/Core/Router.php(64): Core\Controller->__call('dfuuh', Array)
+#1 /Applications/MAMP/htdocs/web/framework/public/index.php(52): Core\Router->dispatch('posts/dfuuh')
+#2 {main}
+Thrown in '/Applications/MAMP/htdocs/web/framework/Core/Controller.php' on line25
+[05-Sep-2016 14:15:35 Europe/Berlin] Uncaught exception: 'Exception'With message 'No route matched'
+Stack trace:#0 /Applications/MAMP/htdocs/web/framework/public/index.php(52): Core\Router->dispatch('pos')
+#1 {main}
+Thrown in '/Applications/MAMP/htdocs/web/framework/Core/Router.php' on line77
+[05-Sep-2016 14:15:45 Europe/Berlin] Uncaught exception: 'Exception'With message 'No route matched'
+Stack trace:#0 /Applications/MAMP/htdocs/web/framework/public/index.php(52): Core\Router->dispatch('pos')
+#1 {main}
+Thrown in '/Applications/MAMP/htdocs/web/framework/Core/Router.php' on line77
+[05-Sep-2016 14:15:49 Europe/Berlin] Uncaught exception: 'Exception'With message 'Error dfuuhAction not found in controllerApp\Controllers\Posts'
+Stack trace:#0 /Applications/MAMP/htdocs/web/framework/Core/Router.php(64): Core\Controller->__call('dfuuh', Array)
+#1 /Applications/MAMP/htdocs/web/framework/public/index.php(52): Core\Router->dispatch('posts/dfuuh')
+#2 {main}
+Thrown in '/Applications/MAMP/htdocs/web/framework/Core/Controller.php' on line25
+[05-Sep-2016 14:22:39 Europe/Berlin] Uncaught exception: 'Exception'With message 'Error dfuuhAction not found in controllerApp\Controllers\Posts'
+Stack trace:#0 /Applications/MAMP/htdocs/web/framework/Core/Router.php(64): Core\Controller->__call('dfuuh', Array)
+#1 /Applications/MAMP/htdocs/web/framework/public/index.php(52): Core\Router->dispatch('posts/dfuuh')
+#2 {main}
+Thrown in '/Applications/MAMP/htdocs/web/framework/Core/Controller.php' on line25
